@@ -7,6 +7,7 @@ constant paremeters:
 
 - Case 2:     
     ${\bf c} = \psi_{\mu}^n$ 
+    ${\bf a} = (c)^{-1}.m$ 
 - 
 - Some values ${\bf a}$ are generated. These values leak information about secret keys. 
 
