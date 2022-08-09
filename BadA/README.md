@@ -33,6 +33,6 @@ constant paremeters:
 
 ## (3): Recovering coefficients of the secret key ${\bf s}$
 
-   - ${\bf s}' = \frac{b*c}{m}$ 
+   - ${\bf s}' = \lfloor \frac{{\bf s}*{\bf s}}{m} \rceil$ 
 
        
