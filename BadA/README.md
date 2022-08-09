@@ -9,23 +9,23 @@ constant paremeters:
 
 #### Case 2:  
 
-    ${\bf c} = \psi_{\mu}^n$ 
+            ${\bf c} = \psi_{\mu}^n$ 
 
-    ${\bf a} = ({\bf c})^{-1}.m$ 
+            ${\bf a} = ({\bf c})^{-1}.m$ 
 
 #### Case 3:  
 
-    ${\bf c} = \psi_{\mu}^n$ 
+        ${\bf c} = \psi_{\mu}^n$ 
 
-    ${\bf a} = ({\bf c})^{-1}.m$ 
+        ${\bf a} = ({\bf c})^{-1}.m$ 
 
 ## (2): Generateing public key$
 
-    ${\bf s} = \psi_{8}^n$ 
+${\bf s} = \psi_{8}^n$ 
 
-    ${\bf e} = \psi_{8}^n$
+${\bf e} = \psi_{8}^n$
 
-    ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
 ## (3): Recovering coefficients of the secret key ${\bf c}$
 
