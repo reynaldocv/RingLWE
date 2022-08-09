@@ -5,7 +5,7 @@ constant paremeters:
 - q = 12289 
 - m = ${\frac{q}{17}}$ = 722
 
-- ## Case 2:  
+#### Case 2:  
         - Generating {\bf a}   
         ${\bf c} = \psi_{\mu}^n$ 
 
@@ -19,7 +19,7 @@ constant paremeters:
 
         ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
-- ## Case 3:  
+#### Case 3:  
         - Generating ${\bf a}$   
                 ${\bf c} = \psi_{\mu}^n$ 
     
