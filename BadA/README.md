@@ -35,7 +35,7 @@ constant paremeters:
 
    - ${\bf s}' = \lfloor \frac{{\bf b}*{\bf c}}{m} \rceil$ 
 
-     ${\bf s}'$ have a high number of coefficients of ${\bf s}$.
+     ${\bf s}'$ has a high number of coefficients of the secret ${\bf s}$.
 
        
 
