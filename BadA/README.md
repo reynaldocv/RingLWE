@@ -31,6 +31,8 @@ constant paremeters:
    
      public key ${\bf pk  = \langle b, a \rangle}$ and secret key ${\bf sk = \langle s \rangle}$
 
-## (3): Recovering coefficients of the secret key ${\bf c}$
+## (3): Recovering coefficients of the secret key ${\bf s}$
+
+   - ${\bf s}' = \frac{b*c}{m}$ 
 
        
