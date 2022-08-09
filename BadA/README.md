@@ -3,11 +3,10 @@
 constant paremeters: 
 - n = 1024
 - q = 12289 
-- m = q/17
+- m = q/17 = 722
 
-- Case 2: 
-    m = 
-    a = c*m
+- Case 2:     
+    $c = \psi_{\mu}^n$ 
 - 
 - Some values ${\bf a}$ are generated. These values leak information about secret keys. 
 
