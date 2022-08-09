@@ -5,33 +5,28 @@ constant paremeters:
 - q = 12289 
 - m = ${\frac{q}{17}}$ = 722
 
-## Generateing ${\bf a}$
+## (1): Generateing ${\bf a}$
 
 #### Case 2:  
 
-  ${\bf c} = \psi_{\mu}^n$ 
+    ${\bf c} = \psi_{\mu}^n$ 
 
-  ${\bf a} = ({\bf c})^{-1}.m$ 
+    ${\bf a} = ({\bf c})^{-1}.m$ 
 
 #### Case 3:  
 
-  ${\bf c} = \psi_{\mu}^n$ 
+    ${\bf c} = \psi_{\mu}^n$ 
 
-  ${\bf a} = ({\bf c})^{-1}.m$ 
+    ${\bf a} = ({\bf c})^{-1}.m$ 
 
--  Generating one experiment
+## (2): Generateing public key$
 
-${\bf s} = \psi_{8}^n$ 
+    ${\bf s} = \psi_{8}^n$ 
 
-${\bf e} = \psi_{8}^n$
+    ${\bf e} = \psi_{8}^n$
 
-${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+    ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
-              
-- 
-- Some values ${\bf a}$ are generated. These values leak information about secret keys. 
+## (3): Recovering coefficients of the secret key ${\bf c}$
 
-- Code to compile: 
-
-  python3 test.sage.py #number_Of_Case #\mu #number_Of_value_Of_A_Generated # 
-    
+       
