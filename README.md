@@ -21,7 +21,7 @@ constant paremeters:
 
    - ${\bf a} = (m + {\bf d}).({\bf c})^{-1}.m$ 
 
-## (2): Generateing the public and secret keys $
+## (2): Generateing the public and secret keys 
 
    - ${\bf s} = \psi_{8}^n$ 
 
@@ -40,8 +40,13 @@ constant paremeters:
        
 
 The command to execute the code. 
+
+> asd
+> > asdsas
+> > 
    - case = $\{2, 3\}$ 
    - $\mu \in {\bf Z}$   
+   - 
    - $k \in {\bf Z}$ : $k$ values of ${\bf a}$ are generated. For each value of ${\bf a}$ is executed 100 experiments)
    
-          Command$ sage   test.sage   case   $\mu$   $k$
+          Command$  sage   test.sage   case   $\mu$   $k$
