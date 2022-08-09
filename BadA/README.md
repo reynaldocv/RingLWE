@@ -1,5 +1,5 @@
 
-# Code to generate values {\bf a} that leak information about secret keys on Ring-LWE
+# Code to generate values ${\bf a}$ that leak information about secret keys on Ring-LWE
 constant paremeters: 
 - n = 1024
 - q = 12289 
