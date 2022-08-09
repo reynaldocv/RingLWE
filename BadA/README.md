@@ -42,6 +42,6 @@ constant paremeters:
 The command to execute the code. 
    - case = $\{2, 3\}$ 
    - $\mu \in {\bf Z}$   
-   - $\# \in {\bf Z}$ : number of paramenter ${\bf a}$ generated
+   - $k \in {\bf Z}$ : number of paramenter ${\bf a}$ generated (for each value of ${\bf a}$ are executed 100 experiments)
 
-          sage test.sage case $\mu$ \#Experiments
+    sage test.sage case $\mu$ \#Experiments
