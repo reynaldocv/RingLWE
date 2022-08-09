@@ -7,7 +7,7 @@ constant paremeters:
 
 ## (1): Generateing ${\bf a}$
 
-#### Case 2:  
+#### Case 2:   
 
             ${\bf c} = \psi_{\mu}^n$ 
 
