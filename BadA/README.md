@@ -3,7 +3,7 @@
 constant paremeters: 
 - n = 1024
 - q = 12289 
-- m = {\frac{q}{17}} = 722
+- m = ${\frac{q}{17}}$ = 722
 
 - ## Case 2:  
         - Generating {\bf a}   
