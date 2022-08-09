@@ -6,7 +6,7 @@ constant paremeters:
 - m = q/17 = 722
 
 - Case 2:     
-    $c = \psi_{\mu}^n$ 
+    ${\bf c} = \psi_{\mu}^n$ 
 - 
 - Some values ${\bf a}$ are generated. These values leak information about secret keys. 
 
