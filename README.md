@@ -5,7 +5,7 @@ constant paremeters:
 - q = 12289 
 - m = ${\frac{q}{17}}$ = 722
 
-### (1): Generateing ${\bf a}$
+### (1): Generating ${\bf a}$
 
 #### Case 2:   
 
@@ -31,7 +31,7 @@ constant paremeters:
    
      public key ${\bf pk  = \langle b, a \rangle}$ and secret key ${\bf sk = \langle s \rangle}$
 
-### (3): Recovering coefficients of the secret key ${\bf s}$
+### (3): Retrieving coefficients of the secret key ${\bf s}$
 
    - ${\bf s}' = \lfloor \frac{{\bf b}*{\bf c}}{m} \rceil$ 
 
