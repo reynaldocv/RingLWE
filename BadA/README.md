@@ -41,7 +41,7 @@ constant paremeters:
 
 The command to execute the code. 
    - case = $\{2, 3\}$ 
-   - $\mu \in \mathcal{Z}$
-   - $#Experiments \in \mathcal{Z}$ : number of paramenter ${\bf a}$ generated
+   - $ \mu \in \mathcal{Z}$
+   - $ \#Experiments \in \mathcal{Z}$ : number of paramenter ${\bf a}$ generated
 
-          python3 case $\mu$ #Experiments
+          sage test.sage case $\mu$ \#Experiments
