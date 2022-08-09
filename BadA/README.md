@@ -17,7 +17,9 @@ constant paremeters:
 
    - ${\bf c} = \psi_{\mu}^n$ 
 
-   - ${\bf a} = ({\bf c})^{-1}.m$ 
+   - ${\bf d} = \psi_{\mu}^n$ 
+
+   - ${\bf a} = (m + {\bf d}).(c)^{-1}.m$ 
 
 ## (2): Generateing the public and secret keys $
 
