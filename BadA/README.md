@@ -6,32 +6,32 @@ constant paremeters:
 - m = ${\frac{q}{17}}$ = 722
 
 #### Case 2:  
-        - Generating {\bf a}   
-        ${\bf c} = \psi_{\mu}^n$ 
+- Generating {\bf a}   
+${\bf c} = \psi_{\mu}^n$ 
 
-        ${\bf a} = ({\bf c})^{-1}.m$ 
+${\bf a} = ({\bf c})^{-1}.m$ 
 
-        -  Generating one experiment
+-  Generating one experiment
 
-        ${\bf s} = \psi_{8}^n$ 
+${\bf s} = \psi_{8}^n$ 
 
-        ${\bf e} = \psi_{8}^n$
+${\bf e} = \psi_{8}^n$
 
-        ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
 #### Case 3:  
-        - Generating ${\bf a}$   
-                ${\bf c} = \psi_{\mu}^n$ 
-    
-                ${\bf a} = ({\bf c})^{-1}.m$ 
-                
-        -  Generating one experiment
+- Generating ${\bf a}$   
+${\bf c} = \psi_{\mu}^n$ 
 
-                ${\bf s} = \psi_{8}^n$ 
+${\bf a} = ({\bf c})^{-1}.m$ 
 
-                ${\bf e} = \psi_{8}^n$
+-  Generating one experiment
 
-                ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+${\bf s} = \psi_{8}^n$ 
+
+${\bf e} = \psi_{8}^n$
+
+${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
               
 - 
