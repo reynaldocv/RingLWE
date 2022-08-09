@@ -6,9 +6,6 @@ from sage.all_cmdline import *   # import sage library
 _sage_const_1024 = Integer(1024); _sage_const_12289 = Integer(12289); _sage_const_8 = Integer(8); _sage_const_1 = Integer(1); _sage_const_0 = Integer(0); _sage_const_p5 = RealNumber('.5'); _sage_const_2 = Integer(2); _sage_const_3 = Integer(3); _sage_const_100 = Integer(100)
 import sys
 
-from datetime import datetime
-
-
 n = _sage_const_1024 
 q = _sage_const_12289 
 r = _sage_const_8 
@@ -84,13 +81,7 @@ while exp < limit:
 			cInv = inverse(c)
 			a = cInv*(m + d)
 			
-		for i in range(_sage_const_100 ):
-			
-			start = datetime.now()
-
-
-
-		
+		for i in range(_sage_const_100 ):			
 			s = smallPolynomial(r)
 			e = smallPolynomial(r)
 
@@ -111,12 +102,7 @@ while exp < limit:
 					cnt += _sage_const_1 	
 				else: 
 					recoveredCoeff += _sage_const_1  
-		
-			end = datetime.now()
-
-
-			print(end - start)
-			
+					
 			if cnt == _sage_const_0 : 
 				recoveredKeys += _sage_const_1  		
 
