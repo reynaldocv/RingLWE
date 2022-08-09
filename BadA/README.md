@@ -19,7 +19,7 @@ constant paremeters:
 
    - ${\bf d} = \psi_{\mu}^n$ 
 
-   - ${\bf a} = (m + {\bf d}).(c)^{-1}.m$ 
+   - ${\bf a} = (m + {\bf d}).({\bf c})^{-1}.m$ 
 
 ## (2): Generateing the public and secret keys $
 
@@ -27,7 +27,9 @@ constant paremeters:
 
    - ${\bf e} = \psi_{8}^n$
 
-   - ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+   - ${\bf b} = {\bf a}.{\bf s} + {\bf e}$
+   
+   - public key {\bf pk}\langle {\bf b}, {\bf b} \rangle}$ and ${\bf public = \langle {\bf b}, {\bf b} \rangle}$
 
 ## (3): Recovering coefficients of the secret key ${\bf c}$
 
