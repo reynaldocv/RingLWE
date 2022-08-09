@@ -35,6 +35,13 @@ constant paremeters:
 
    - ${\bf s}' = \lfloor \frac{{\bf b}*{\bf c}}{m} \rceil$ 
 
-     ${\bf s}' have a high number of coefficients of ${\bf s}$.
+     ${\bf s}'$ have a high number of coefficients of ${\bf s}$.
 
        
+
+The command to execute the code. 
+   - case = $\{2, 3\}$ 
+   - $\mu \in \mathcal{Z}$
+   - $#Experiments \in \mathcal{Z}$ : number of paramenter ${\bf a}$ generated
+
+          python3 case $\mu$ #Experiments
