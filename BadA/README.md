@@ -3,10 +3,10 @@
 constant paremeters: 
 - n = 1024
 - q = 12289 
-- m = q/17 = 722
+- m = {\frac{q}{17}} = 722
 
 - ## Case 2:  
-        - Generating ${\bf a}$   
+        - Generating {\bf a}   
         ${\bf c} = \psi_{\mu}^n$ 
 
         ${\bf a} = ({\bf c})^{-1}.m$ 
