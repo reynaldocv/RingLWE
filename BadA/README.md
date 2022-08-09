@@ -44,4 +44,4 @@ The command to execute the code.
    - $\mu \in {\bf Z}$   
    - $k \in {\bf Z}$ : $k$ values of ${\bf a}$ are generated. For each value of ${\bf a}$ is executed 100 experiments)
    
-   sage   test.sage   case   $\mu$   $k$
+  $ \$ $sage   test.sage   case   $\mu$   $k$
