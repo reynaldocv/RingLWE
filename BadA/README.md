@@ -19,13 +19,13 @@ constant paremeters:
 
         ${\bf a} = ({\bf c})^{-1}.m$ 
 
-## (2): Generateing public key$
+## (2): Generateing the public and secret keys $
 
-${\bf s} = \psi_{8}^n$ 
+                                                                                    ${\bf s} = \psi_{8}^n$ 
 
-${\bf e} = \psi_{8}^n$
+                                                                                    ${\bf e} = \psi_{8}^n$
 
-${\bf b} = {\bf a}.{\bf e} + {\bf e}$
+                                                                                    ${\bf b} = {\bf a}.{\bf e} + {\bf e}$
 
 ## (3): Recovering coefficients of the secret key ${\bf c}$
 
