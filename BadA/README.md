@@ -29,7 +29,7 @@ constant paremeters:
 
    - ${\bf b} = {\bf a}.{\bf s} + {\bf e}$
    
-   - public key {\bf pk}\langle {\bf b}, {\bf b} \rangle}$ and ${\bf public = \langle {\bf b}, {\bf b} \rangle}$
+   - public key ${\bf pk} = \langle {\bf b}, {\bf a} \rangle}$ and secret key ${\bf sk = \langle {\bf s} \rangle}$
 
 ## (3): Recovering coefficients of the secret key ${\bf c}$
 
