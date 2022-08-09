@@ -40,8 +40,8 @@ constant paremeters:
        
 
 > The command to execute the code. 
-   - input1: case $\in$ {2, 3}
-   - input2: $\mu \in {\bf Z}$ 
-   - input3: $k \in {\bf Z}$ : $k$ values of ${\bf a}$ are generated. For each value of ${\bf a}$ is executed 100 experiments)
+> > input1: case $\in$ {2, 3}
+> > input2: $\mu \in {\bf Z}$ 
+> > input3: $k \in {\bf Z}$ : $k$ values of ${\bf a}$ are generated. For each value of ${\bf a}$ is executed 100 experiments)
    
-          Command$  sage   test.sage   input1 input2 input2
+                Command$  sage   test.sage   input1 input2 input2
